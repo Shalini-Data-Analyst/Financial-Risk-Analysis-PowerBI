@@ -98,11 +98,10 @@ These insights help organizations better understand financial risk patterns.
 
 ## 📷 Dashboard Preview
 
-(Add your Power BI dashboard screenshot here)
+![Loan Risk Analysis Dashboard](images/Visuals/Barrowers.png.png)
 
-Example:
 
-![Financial Risk Dashboard](images/dashboard_preview.png)
+![Barrower Financial Analysis Dashboard](images/Visuals/Barrowers.png.png)
 
 ---
 
