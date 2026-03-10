@@ -98,10 +98,10 @@ These insights help organizations better understand financial risk patterns.
 
 ## 📷 Dashboard Preview
 
-![Loan Risk Analysis Dashboard](images/Visuals/Barrowers.png.png)
+![Loan Risk Analysis Dashboard](Visuals/loan .png)
 
 
-![Barrower Financial Analysis Dashboard](images/Visuals/Barrowers.png.png)
+![Barrower Financial Analysis Dashboard](Visuals/Barrowers.png)
 
 ---
 
