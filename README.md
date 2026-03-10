@@ -1,44 +1,135 @@
-# Bank Loan Performance Dashboard – Power BI Project
+# Financial Risk Analysis Dashboard (Power BI)
 
-## Project Overview
+## 📊 Project Overview
 
-This project focuses on analyzing bank loan data to evaluate loan performance, approval trends, and risk patterns. The interactive dashboard was developed using Power BI to provide insights that help financial institutions monitor lending performance and identify potential risk factors.
+This project focuses on analyzing financial risk using interactive dashboards built in Power BI. The objective is to identify potential risk patterns, analyze financial performance, and provide insights that can support better financial decision-making.
 
-## Tools & Technologies
+---
+
+## 🎯 Problem Statement
+
+Financial institutions must continuously monitor financial data to identify high-risk segments and maintain financial stability.
+This project analyzes financial data and visualizes important metrics to help identify potential risk areas and improve decision-making.
+
+---
+
+## 📂 Dataset Description
+
+The dataset contains financial information related to customers and financial performance, including:
+
+* Customer demographics
+* Financial transactions
+* Risk indicators
+* Income levels
+* Loan or financial behavior
+* Other financial metrics
+
+These variables help analyze patterns that may contribute to financial risk.
+
+---
+
+## 🛠 Tools and Technologies Used
 
 * Power BI
+* Power Query
 * Data Modeling
 * DAX (Data Analysis Expressions)
-* Microsoft Excel
+* Data Visualization
 
-## Key Features
+---
 
-* Total Loan Applications Analysis
-* Loan Approval vs Rejection Rate
-* Good Loan vs Bad Loan Performance
-* Monthly Loan Trends
-* Customer Loan Distribution
+## 🔧 Data Preparation
 
-## Business Insights
+Data preprocessing was performed using Power Query to ensure accurate analysis:
 
-* Identifies patterns in loan approvals and defaults
-* Helps financial institutions evaluate lending risks
-* Provides data-driven insights for decision making
+* Handling missing values
+* Data type corrections
+* Removing inconsistencies
+* Preparing data for modeling
 
-## Dashboard Preview
+---
 
-![Dashboard Preview](images/dashboard_preview.png)
+## 🧩 Data Modeling
 
-## Project Files
+Relationships were created between relevant tables to ensure accurate filtering and calculations within the dashboard.
 
-* `dashboard/Bank_Loan_Performance.pbix` – Power BI dashboard file
-* `data/bank_loan_dataset.csv` – Dataset used for analysis
+Data modeling helps improve performance and enables advanced analysis within Power BI.
 
-## Author
+---
 
-Shalini ,
-Aspiring  Data Analyst with skills in Power BI, SQL, and Data Visualization.
+## 📊 Dashboard Features
 
-## Repository
+The Power BI dashboard provides a comprehensive overview of financial risk through several visualizations:
 
-This project is part of my data analytics portfolio showcasing dashboard development and data storytelling using Power BI.
+* KPI Cards showing key financial metrics
+* Risk distribution analysis
+* Financial performance trends
+* Category-wise financial comparisons
+* Interactive filtering options
+
+Users can interact with the dashboard to explore different aspects of financial risk.
+
+---
+
+## 📈 Key Metrics
+
+Important metrics included in the dashboard:
+
+* Total Financial Value
+* Risk Distribution
+* Average Financial Metrics
+* Category-wise Performance
+
+These metrics help understand financial health and risk exposure.
+
+---
+
+## 🔍 Key Insights
+
+Key findings from the analysis include:
+
+* Certain financial categories contribute significantly to overall risk.
+* Some customer segments demonstrate higher financial risk compared to others.
+* Financial performance varies across different categories and segments.
+
+These insights help organizations better understand financial risk patterns.
+
+---
+
+## 📷 Dashboard Preview
+
+(Add your Power BI dashboard screenshot here)
+
+Example:
+
+![Financial Risk Dashboard](images/dashboard_preview.png)
+
+---
+
+## 📁 Project Structure
+
+Financial-Risk-Analysis-PowerBI
+
+* dataset.csv
+* financial_risk_dashboard.pbix
+* images
+
+  * dashboard_preview.png
+* README.md
+
+---
+
+## 🚀 Future Improvements
+
+Possible future enhancements include:
+
+* Adding predictive risk models
+* Integrating additional financial datasets
+* Creating advanced DAX measures for deeper analysis
+
+---
+
+## 👩‍💻 Author
+
+Shalini M
+Aspiring Data Analyst skilled in Excel, SQL, Python, and Power BI.
